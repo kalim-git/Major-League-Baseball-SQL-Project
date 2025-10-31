@@ -6,8 +6,8 @@ This project uncovers meaningful trends in Major League Baseball (MLB) players d
 ## Dataset
 The Dataset includes decades worth of data including player statistics like schools attended, salaries, teams played for, height and weight, and more.
 
- - <a https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20SQL%20Scripts>SQL Scripts</a>
- - <a https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20CSV%20Files>CSV Files</a>
+ - <a href="https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20SQL%20Scripts">SQL Scripts</a>
+ - <a href="https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20CSV%20Files">CSV Files</a>
 
 ## Goal
 The goal of this project was to uncover meaningful trends in Major League Baseball (MLB) player data by analyzing their educational backgrounds, salaries, physical attributes, and career paths.
