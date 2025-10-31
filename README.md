@@ -1,5 +1,7 @@
 # Major-League-Baseball-SQL-Project
-The goal of this project was to uncover meaningful trends in Major League Baseball (MLB) player data using the Sean Lahman Baseball Database.
+<img width="1536" height="1024" alt="MLS baseball SQL project cover picture" src="https://github.com/user-attachments/assets/021d6fde-60ea-4209-aaad-64b88dc50cb2" />
+
+This project uncovers meaningful trends in Major League Baseball (MLB) players data using the Sean Lahman Baseball Database.
 
 ## Dataset
 The Dataset includes decades worth of data including player statistics like schools attended, salaries, teams played for, height and weight, and more.
