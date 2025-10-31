@@ -23,30 +23,30 @@ Using advanced SQL querying techniques to track how player statistics have chang
 
 **Part I: School Analysis**
 
-  Task 1: View the schools and school details tables
-  Task 2: In each decade, how many schools were there that produced players?
-  Task 3: What are the names of the top 5 schools that produced the most players?
-  Task 4: For each decade, what were the names of the top 3 schools that produced the most players?
+- Task 1: View the schools and school details tables
+- Task 2: In each decade, how many schools were there that produced players?
+- Task 3: What are the names of the top 5 schools that produced the most players?
+- Task 4: For each decade, what were the names of the top 3 schools that produced the most players?
 
 **Part II: Salary Analysis**
 
-  Task 1: View the salaries table
-  Task 2: Return the top 20% of teams in terms of average annual spending
-  Task 3: For each team, show the cumulative sum of spending over the years
-  Task 4: Return the first year that each team's cumulative spending surpassed 1 billion
+- Task 1: View the salaries table
+- Task 2: Return the top 20% of teams in terms of average annual spending
+- Task 3: For each team, show the cumulative sum of spending over the years
+- Task 4: Return the first year that each team's cumulative spending surpassed 1 billion
 
 **Part III: Player Career Analysis**
 
-  Task 1: View the players table and find the number of players in the table
-  Task 2: For each player, calculate their age at their first (debut) game, their last game, and their career length (all in years). Sort from longest career to shortest career.
-  Task 3: What team did each player play on for their starting and ending years?
-  Task 4: How many players started and ended on the same team and also played for over a decade?
+- Task 1: View the players table and find the number of players in the table
+- Task 2: For each player, calculate their age at their first (debut) game, their last game, and their career length (all in years). Sort from longest career to shortest career.
+- Task 3: What team did each player play on for their starting and ending years?
+- Task 4: How many players started and ended on the same team and also played for over a decade?
 
 **Part IV: Player Comparison Analysis**
 
-  Task 1: Which players have the same birthday? Hint: Look into GROUP_CONCAT / LISTAGG / STRING_AGG
-  Task 2: Create a summary table that shows for each team, what percent of players bat right, left and both
-  Task 3: How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
+- Task 1: Which players have the same birthday? Hint: Look into GROUP_CONCAT / LISTAGG / STRING_AGG
+- Task 2: Create a summary table that shows for each team, what percent of players bat right, left and both
+- Task 3: How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
 
 ## SQL Techniques
 Using the Sean Lahman Baseball Database, I applied advanced SQL techniques to:
