@@ -1,5 +1,4 @@
-# <img width="128" height="128" alt="17901866" src="https://github.com/user-attachments/assets/ef30f442-1d02-45cc-8f63-d451826e2247" />
-Major-League-Baseball-SQL-Project
+# Major-League-Baseball-MySQL-Project
 <img width="1536" height="1024" alt="MLS baseball SQL project cover picture" src="https://github.com/user-attachments/assets/021d6fde-60ea-4209-aaad-64b88dc50cb2" />
 
 This project uncovers meaningful trends in Major League Baseball (MLB) players data using the Sean Lahman Baseball Database.
@@ -10,16 +9,16 @@ The Dataset includes decades worth of data including player statistics like scho
  - <a href="https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20SQL%20Scripts">SQL Scripts</a>
  - <a href="https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20CSV%20Files">CSV Files</a>
 
-## Goal
+## 🎯Goal
 The goal of this project was to uncover meaningful trends in Major League Baseball (MLB) player data by analyzing their educational backgrounds, salaries, physical attributes, and career paths.
 
-## Objectives
+## 🎯Objectives
  1. What schools do MLB players attend?
  2. How much do teams spend on player salaries?
  3. What does each player’s career look like?
  4. How do player attributes compare?
 
-## Tasks
+## 🚀Tasks
 Using advanced SQL querying techniques to track how player statistics have changed over time and across different teams in the league.
 
 **Part I: School Analysis**
@@ -49,15 +48,15 @@ Using advanced SQL querying techniques to track how player statistics have chang
 - Task 2: Create a summary table that shows for each team, what percent of players bat right, left and both
 - Task 3: How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
 
-## SQL Techniques
-Using the Sean Lahman Baseball Database, I applied advanced SQL techniques to:
+## SQL Functions
+Using the **Sean Lahman Baseball Database**, I applied **Advanced SQL Functions** to:
 
 - Identify top player-producing schools across decades
 - Track team salary trends and cumulative spending milestones
 - Analyze career longevity and player-team loyalty
 - Compare player attributes and spot changes over time
 
-**The SQL techniques are as follows:**
+**The SQL Functions are as follows:**
 - Numeric Functions
 - Joins
 - Window Functions
@@ -67,6 +66,6 @@ Using the Sean Lahman Baseball Database, I applied advanced SQL techniques to:
 - String Functions
 - Pivoting
 
-## Give Heading
+## Conclusion
 The findings were structured into clear, actionable insights using SQL queries, which allowed for uncovering long-term patterns and performance drivers across the league. This helped demonstrate how historical data can be leveraged to guide future recruitment, spending, and team-building strategies.
 
