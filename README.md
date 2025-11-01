@@ -1,4 +1,5 @@
-# Major-League-Baseball-SQL-Project
+# <img width="128" height="128" alt="17901866" src="https://github.com/user-attachments/assets/ef30f442-1d02-45cc-8f63-d451826e2247" />
+Major-League-Baseball-SQL-Project
 <img width="1536" height="1024" alt="MLS baseball SQL project cover picture" src="https://github.com/user-attachments/assets/021d6fde-60ea-4209-aaad-64b88dc50cb2" />
 
 This project uncovers meaningful trends in Major League Baseball (MLB) players data using the Sean Lahman Baseball Database.
