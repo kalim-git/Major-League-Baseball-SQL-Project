@@ -1,9 +1,9 @@
-# Major-League-Baseball-MySQL-Project
+# ⚾Major-League-Baseball-MySQL-Project
 <img width="1536" height="1024" alt="MLS baseball SQL project cover picture" src="https://github.com/user-attachments/assets/021d6fde-60ea-4209-aaad-64b88dc50cb2" />
 
 This project uncovers meaningful trends in Major League Baseball (MLB) players data using the Sean Lahman Baseball Database.
 
-## Dataset
+## 📑Dataset
 The Dataset includes decades worth of data including player statistics like schools attended, salaries, teams played for, height and weight, and more.
 
  - <a href="https://github.com/kalim-git/Major-League-Baseball-SQL-Project/tree/main/Dataset%20SQL%20Scripts">SQL Scripts</a>
@@ -44,7 +44,7 @@ Using advanced SQL querying techniques to track how player statistics have chang
 
 **Part IV: Player Comparison Analysis**
 
-- Task 1: Which players have the same birthday? Hint: Look into GROUP_CONCAT / LISTAGG / STRING_AGG
+- Task 1: Which players have the same birthday?
 - Task 2: Create a summary table that shows for each team, what percent of players bat right, left and both
 - Task 3: How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
 
@@ -66,6 +66,6 @@ Using the **Sean Lahman Baseball Database**, I applied **Advanced SQL Functions*
 - String Functions
 - Pivoting
 
-## Conclusion
+## 🪶Conclusion
 The findings were structured into clear, actionable insights using SQL queries, which allowed for uncovering long-term patterns and performance drivers across the league. This helped demonstrate how historical data can be leveraged to guide future recruitment, spending, and team-building strategies.
 
